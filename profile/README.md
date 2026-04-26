@@ -29,11 +29,11 @@
 
 ## 📦 Наши проекты
 
-| Проект | Описание | Статус |
+| Проект | Описание | Ссылка |
 |--------|----------|--------|
-| ❄️ **DarkVPN** | 400+ VLESS+Reality прокси для свободы в сети | ✅ Стабильно |
-| ⚡ **TSandCode** | Онлайн-редактор HTML/CSS/JS с зимним вайбом | ✅ Работает |
-| 🐘 **PHPNoFluff** | Учебник PHP без воды, с душой и матами | ✅ Активен |
+| ❄️ **DarkVPN** | 400+ VLESS+Reality прокси для свободы в сети | [Веб-сайт](https://web-pentest.github.io/Web-DarkVPN/) • [GitHub](https://github.com/web-pentest/DarkVPN) |
+| ⚡ **TSandCode** | Онлайн-редактор HTML/CSS/JS с зимним вайбом | [Веб-сайт](https://web-pentest.github.io/TSandCode/) • [GitHub](https://github.com/web-pentest/TSandCode) |
+| 🐘 **PHPNoFluff** | Учебник PHP без воды, с душой и матами | [GitHub](https://github.com/web-pentest/PHPNoFluff) |
 
 ---
 
